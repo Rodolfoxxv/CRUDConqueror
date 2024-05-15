@@ -5,7 +5,7 @@ import os
 import time
 
 # Definir o caminho para salvar o arquivo
-output_path = r"C:\Users\SE60731\Downloads"
+output_path = r"C:\Users\rodol\OneDrive\Documents\GitHub\Estudos\MaterialOn"
 
 base_url = 'https://www.cristianocec.com.br/loja/catalogo.php?loja=1028926&categoria=515'
 headers = {
